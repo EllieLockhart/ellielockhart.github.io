@@ -63,7 +63,7 @@ Current projects include:
 I am currently scaling up my open source contributions; most of my recorded commits on GitHub to projects I do not administer are documentation-related. I hope to change this, possibly through work on niche areas such as database drivers (perhaps implementing better support for Neo4j in .NET) and nVidia Jetson related embedded software. The open source community is important to me.
 
 ## A Brief Career Outline
-(this is not a resume, you can find that [here]("Ellie Lockhart resume.docx"))
+(this is not a resume, you can find that [here](Ellie Lockhart resume.docx))
 
 - Graduate Research & Teaching Assistant, Texas A&M University, 2010-2015
 
@@ -82,3 +82,44 @@ I am currently scaling up my open source contributions; most of my recorded comm
 - [Peer reviewed study on science's interface with the communication field](https://www.tandfonline.com/doi/abs/10.1080/00028533.2014.11821824?journalCode=rafa20) published in *Argumentation & Advocacy* (paywall). *February 2016*
 - [Peer reviewed ethical study on discourse and content warnings](https://nca.tandfonline.com/doi/abs/10.1080/21689725.2016.1232623) published in *First Amendment Studies*, a publication of the National Communication Association. *July 2016*
 - [Data-driven doctoral dissertation on nerd culture](http://oaktrust.library.tamu.edu/handle/1969.1/155516?show=full), distributed by Texas A&M University libraries/OakTrust, constructed in part with data gathered from Twitter streams, and deeply entwined with online culture and technology.
+
+### Coding Metrics
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@EllieNotTifa/f1259624-6954-40a0-9f62-c8026d356b56.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
+
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@EllieNotTifa/7a3404f7-3f4e-4339-8921-607aa4337683.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
+
+<!-- Prepare a container for your calendar. -->
+<script
+  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
+>
+</script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+  rel="stylesheet"
+  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    new GitHubCalendar(".calendar", "your-username");
+</script>
