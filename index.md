@@ -44,13 +44,41 @@ While I'm seeking to advance my career in the tech industry, I do not think that
 
 Current projects include:
 **Datasets**
-- CDC Mask Data & Amazon masks advertising themselves in association with the US FDA. (GitHub) (Kaggle)
+- CDC Mask Data & Amazon masks advertising themselves in association with the US FDA. [(GitHub)](https://github.com/EllieLockhart/US-FDA-EUA-Masks---Marketing) [(Kaggle)](https://www.kaggle.com/ellielockhart/us-fda-eua-masks-amazon-marketing)
   
     - This project came from discovering that some medical-grade masks I had purchased for the safety of my family were not in fact in any way inspected by the US FDA, and that they were being misleadingly advertised for sale. This dataset includes a list of all *actual* companies authorized to sell masks with medical purpose in the US, and a detailed Amazon search with product information for all "FDA" keyword masks, allowing statistics to be collected about the extent to which masks that are being implied to be medical-grade have in fact been approved. 
     - This project has effectively been **completed**.
     
-- Media Viewpoints: Controversial Media Reviews of the 2010s (GitHub) (Kaggle)
+- Media Viewpoints: Controversial Media Reviews of the 2010s [(GitHub)](https://github.com/EllieLockhart/Metacritic---Rotten-Tomatoes-Controversial-Reviews-Dataset) [(Kaggle)](https://www.kaggle.com/ellielockhart/metacritic-rotten-tomatoes-controversial-reviews)
     
     - This project stems from my personal interest in popular culture and my academic history of researching harassment and fraud related to popular culture. The goal is to examine particularly controversial sets of product reviews for films and video games released during the previous decade, to compare them using NLP techniques with less controversial but equally well-known media products, and to hopefully derive an algorithm which would use fraud detection techniques to predict the likelihood that a given product review is a result of a coordinated/concerted campaign that may involve multiple reviewers, reviews by those who are not actually customers, and so on. This project could be directly applicable to companies whose products' success depends on reviews in adjusting apparent review scores to account for online campaigns, and could have broader applications to the study of online conversation. 
     - The dataset, linked above, **is complete**, including basic NLP used to filter reviews based on language to create a consistent set of reviews for further analysis.
     - The NLP work is ongoing in Python and Scala (with some help from Redis caching) in some of the GitHub branches; I'm also doing some basic work in Azure Data Factory & with DataBricks.
+
+- Untitled .NET Social Content Sharing Project (currently in private repositories only)
+    
+    - Many social sites, such as Medium and Twitter, utilize various kinds of graph APIs to link users to content they may be interested in. I'm interested in democractizing this content by creating a web application that can be repurposed for various kinds of content sharing - blogs, similar, as mentioned above, to Medium, but also original fiction or even various types of non-text content - and linking users (who register voluntarily) to a recommendation algorithm. I'm currently implementing this project using .NET based web frameworks and industry standard database technologies - although I initially considered using Neo4j, I find that it would be unlikely to scale should this project find potential success.
+
+### My Open Source Contributions
+I am currently scaling up my open source contributions; most of my recorded commits on GitHub to projects I do not administer are documentation-related. I hope to change this, possibly through work on niche areas such as database drivers (perhaps implementing better support for Neo4j in .NET) and nVidia Jetson related embedded software. The open source community is important to me.
+
+## A Brief Career Outline
+(this is not a resume, you can find that [here]("Ellie Lockhart resume.docx"))
+
+- Graduate Research & Teaching Assistant, Texas A&M University, 2010-2015
+
+    - Worked on data projects, including streaming data, and learned R, additional data techniques with Python, and how to work with MySQL/MariaDB. I also administered a hobby website with approximately 40 users *per* day.
+
+- Assistant Professor, Rowan University, 2015-2018
+
+    - Continued my research, published two peer reviewed research papers, and advocated for greater digital involvement in the classroom. Mastered data analysis skills, but decided to leave to pursue a career in corporate software development in order to have a greater impact on the world.
+
+- Now
+
+    - Continuing to research and study data; I've mastered industry standard frameworks that weren't common in academia and been able to freelance and pursue projects of deep importance (see above). I continue to pursue publishing, in addition to development work.
+
+### My Publications
+- [Interviewed by Noah Berlatsky for The Observer](https://observer.com/2020/09/lgbt-film-representation-data-ellie-lockhart/) about some low-level data collection work I did regarding diversity in film. *September 2020*
+- [Peer reviewed study on science's interface with the communication field](https://www.tandfonline.com/doi/abs/10.1080/00028533.2014.11821824?journalCode=rafa20) published in *Argumentation & Advocacy* (paywall). *February 2016*
+- [Peer reviewed ethical study on discourse and content warnings](https://nca.tandfonline.com/doi/abs/10.1080/21689725.2016.1232623) published in *First Amendment Studies*, a publication of the National Communication Association. *July 2016*
+- [Data-driven doctoral dissertation on nerd culture](http://oaktrust.library.tamu.edu/handle/1969.1/155516?show=full), distributed by Texas A&M University libraries/OakTrust, constructed in part with data gathered from Twitter streams, and deeply entwined with online culture and technology.
