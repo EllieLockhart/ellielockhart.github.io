@@ -66,7 +66,7 @@ Current projects include:
 I am currently scaling up my open source contributions; most of my recorded commits on GitHub to projects I do not administer are documentation-related. I hope to change this, possibly through work on niche areas such as database drivers (perhaps implementing better support for Neo4j in .NET) and nVidia Jetson related embedded software. The open source community is important to me.
 
 ## A Brief Career Outline
-(this is not a resume, you can find that [here](Ellie Lockhart resume.docx))
+(this is not a resume, you can find that [here](Lockhart-resume.docx))
 
 - Graduate Research & Teaching Assistant, Texas A&M University, 2010-2015
 
