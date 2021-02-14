@@ -84,7 +84,7 @@ I am currently scaling up my open source contributions; most of my recorded comm
 - [Data-driven doctoral dissertation on nerd culture](http://oaktrust.library.tamu.edu/handle/1969.1/155516?show=full), distributed by Texas A&M University libraries/OakTrust, constructed in part with data gathered from Twitter streams, and deeply entwined with online culture and technology.
 
 ### Coding Metrics
-<script src="jquery-3.5.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 $.ajax({
   type: 'GET',
   url: 'https://wakatime.com/share/@EllieNotTifa/f1259624-6954-40a0-9f62-c8026d356b56.json',
