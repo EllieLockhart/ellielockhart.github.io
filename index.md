@@ -6,6 +6,12 @@ Welcome to the personal website & portfolio of Ellie Lockhart, software & data d
 ### Contact Information
 You can reach me at elliedev at protonmail.com. 
 
+### Career Goals
+> We've had our eye on you for some time now, Mr. Anderson. It seems that you've been leading two lives. In one of these lives you are a **program writer for a respectable software company...** 
+>> Agent Smith, *The Matrix* (1999)
+
+As the above quotation indicates, I am seeking employment as a developer at a respectable software company.
+
 ### Professional Interests
 I wrote my first line of BASIC at the age of nine, on the aforementioned Mac SE, and my first line of Python at 10 when involved in a hobby project involving a long-forgotten adventure game development engine. Picking up new development skills, whether that means new programming languages, new database architectures, or entirely new modes of software development like Agile and microservices, is one of my passions. I use technology to accomplish goals, whether those goals are working with a team, completing academic research & publication, or developing my own passion project. The things I am particularly enthusiastic about working on include:
 
