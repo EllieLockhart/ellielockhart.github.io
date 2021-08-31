@@ -87,7 +87,6 @@ I am currently scaling up my open source contributions; most of my recorded comm
     - Continuing to research and study data; I've mastered industry standard frameworks that weren't common in academia and been able to freelance and pursue projects of deep importance (see above). I continue to pursue publishing, in addition to development work.
 
 ### My Publications
-- [Interviewed by Noah Berlatsky for The Observer](https://observer.com/2020/09/lgbt-film-representation-data-ellie-lockhart/) about some low-level data collection work I did regarding diversity in film. *September 2020*
 - [Peer reviewed study on science's interface with the communication field](https://www.tandfonline.com/doi/abs/10.1080/00028533.2014.11821824?journalCode=rafa20) published in *Argumentation & Advocacy* (paywall). *February 2016*
 - [Peer reviewed ethical study on discourse and content warnings](https://nca.tandfonline.com/doi/abs/10.1080/21689725.2016.1232623) published in *First Amendment Studies*, a publication of the National Communication Association. *July 2016*
 - [Data-driven doctoral dissertation on nerd culture](http://oaktrust.library.tamu.edu/handle/1969.1/155516?show=full), distributed by Texas A&M University libraries/OakTrust, constructed in part with data gathered from Twitter streams, and deeply entwined with online culture and technology.
